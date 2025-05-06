@@ -1,0 +1,8 @@
+numpy
+Pillow
+PySide6
+pytesseract
+opencv-python-headless
+python-dotenv
+PyMuPDF
+python-Levenshtein
