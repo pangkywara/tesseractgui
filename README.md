@@ -40,7 +40,7 @@ Aplikasi desktop ini menyediakan antarmuka pengguna grafis (GUI) untuk melakukan
         *   macOS/Linux: `source env/bin/activate`
     *   Instal dependensi: `pip install -r requirements.txt`
 3.  **Jalankan Aplikasi:**
-    *   **Penting:** Jalankan dari direktori **di atas** `gui_app` (yaitu, direktori utama proyek `@PBO-tesseract`).
+    *   **Penting:** Jalankan dari direktori **di atas** `gui_app` (yaitu, direktori utama proyek `Nama folder Anda`).
     *   Di terminal (dengan lingkungan virtual aktif), jalankan perintah: `python -m gui_app.main_pyside`
 
 4.  **(Opsional) Hapus Basis Data Lama:** Jika Anda mengubah struktur tabel basis data (seperti yang dilakukan saat pengembangan), hapus berkas `gui_app/ocr_history.db` agar aplikasi dapat membuatnya kembali dengan skema baru saat dijalankan. 
