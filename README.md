@@ -1,4 +1,4 @@
-# Aplikasi GUI OCR Tesseract
+# Kelompok 3 - GUI Tesseract OCR
 
 ## Deskripsi
 
